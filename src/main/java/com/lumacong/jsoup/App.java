@@ -15,6 +15,7 @@ import org.jsoup.select.Elements;
 public class App {
 
 	public static void main(String[] args) {
+		//结果集
 		HashMap hm = new HashMap();
 		hm.put("wzG1", "大绿");
 		hm.put("wzR1", "大红");
